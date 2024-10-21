@@ -1,5 +1,4 @@
 <h1>Hello there 👋</h1>
-----
 
   📝 My name is Sigrid and I'm a student at Jobloop's Kodehode
   🌱 Currently learning C# and dabbling in frontend
