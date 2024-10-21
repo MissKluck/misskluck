@@ -1,4 +1,7 @@
-## Hi there 👋
+Hello there 👋
+
+  📝 My name is Sigrid and I'm currently studying C# and .NET at Kodehode.
+  
 
 <!--
 **MissKluck/misskluck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
